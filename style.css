@@ -1,6 +1,10 @@
-
-
 .banner {
 	text-align: center;
 	margin-top: 1rem;
+}
+
+/*//////////////////////Media Query//////////////////////////////*/
+
+@media (max-width: 781px) {
+  
 }
