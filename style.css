@@ -1,8 +1,10 @@
-.card-custom{
-	margin: 2rem;
-}
-
 .banner {
 	text-align: center;
 	margin-top: 1rem;
+}
+
+/*//////////////////////Media Query//////////////////////////////*/
+
+@media (max-width: 781px) {
+  
 }
