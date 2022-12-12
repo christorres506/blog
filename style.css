@@ -3,4 +3,14 @@
 	margin-top: 1rem;
 }
 
-/*//////////////////////Media Query//////////////////////////////*/
+.navbar-layout{
+	display: flex;
+	justify-content: space-between;
+}
+
+
+
+.no-underline{
+	text-decoration: none;
+
+}
