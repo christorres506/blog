@@ -1,24 +1,8 @@
-.banner {
-	text-align: center;
-	margin-top: 1rem;
-}
-
-.navbar-layout{
-	display: flex;
-	justify-content: space-between;
-}
-
 
 
 .no-underline{
 	text-decoration: none;
 	color: black;
-
-}
-
-.nav-bar-size {
-	font-size: 2rem;
-
 }
 
 h1{
