@@ -18,3 +18,16 @@ p{
 .font-links {
 	font-size: 1.3rem;
 }
+
+
+/*MEDIA QUERYS*/
+
+/*MEDIA QUERYS*/
+
+@media (min-width: 996px) {
+
+.custom-margin {
+	padding-left: 12rem;
+	padding-right: 12rem;
+	}
+}
