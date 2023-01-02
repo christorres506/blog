@@ -14,7 +14,7 @@ li{
 
 /*MEDIA QUERYS*/
 
-@media (min-width: 996px) {
+@media (min-width: 991px) {
 
 .custom-margin {
 	padding-left: 12rem;
