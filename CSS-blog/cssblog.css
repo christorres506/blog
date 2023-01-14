@@ -1,0 +1,23 @@
+p{
+	font-size: 1.3rem;
+	font-family: sans-serif;
+}
+
+h1, h2{
+	margin-bottom: 2rem;
+	
+}
+
+.navbar-custom {
+	font-size: 1.5rem;
+}
+
+/*MEDIA QUERYS*/
+
+@media (min-width: 991px) {
+
+.custom-margin {
+	padding-left: 17rem;
+	padding-right: 17rem;
+	}
+}
