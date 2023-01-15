@@ -19,7 +19,26 @@ h1, h2{
 @media (min-width: 991px) {
 
 .custom-margin {
-	padding-left: 17rem;
-	padding-right: 17rem;
+	padding-left: 15rem;
+	padding-right: 15rem;
+	}
+.tittle {
+	padding: 4rem;
+}
+}	
+
+@media (max-width: 991px) {
+
+.custom-margin {
+	padding-left: 8rem;
+	padding-right: 8rem;
+	}
+
+
+@media (max-width: 768px) {
+
+.custom-margin {
+	padding-left: 3rem;
+	padding-right: 3rem;
 	}
 }
