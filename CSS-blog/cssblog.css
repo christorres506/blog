@@ -1,16 +1,28 @@
 p{
 	font-size: 1.3rem;
-	font-family: sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+
+.font-bold {
+	font-size: 1.5rem;
 }
 
 h1, h2 {
 	margin-bottom: 2rem;
-	font-size: 1.3rem;
+	font-size: 2.2rem;
+	font-family: 'Roboto Slab', serif;
 }
 
 .navbar-custom {
-	font-size: 2rem;
+	font-size: 1.5rem;
 }
+
+li {
+	font-size: 1.2rem;
+	font-family: 'Roboto', sans-serif;
+}
+
+
 
 /*MEDIA QUERYS*/
 
@@ -23,7 +35,10 @@ h1, h2 {
 	}
 .tittle {
 	padding: 4rem;
-}
+	}
+.navbar-custom {
+	font-size: 2rem;
+	}
 }	
 
 @media (max-width: 991px) {
@@ -37,8 +52,8 @@ h1, h2 {
 @media (max-width: 768px) {
 
 .custom-margin {
-	padding-left: 3rem;
-	padding-right: 3rem;
+	padding-left: 2rem;
+	padding-right: 2rem;
 	}
 }
 
