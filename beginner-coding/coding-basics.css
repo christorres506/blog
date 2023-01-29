@@ -1,0 +1,58 @@
+p{
+	font-size: 1.3rem;
+	font-family: 'Roboto', sans-serif;
+}
+
+.font-bold {
+	font-size: 1.5rem;
+}
+
+h1, h2 {
+	margin-bottom: 2rem;
+	font-size: 2.2rem;
+	font-family: 'Roboto Slab', serif;
+}
+
+.navbar-custom {
+	font-size: 1.5rem;
+}
+
+li {
+	font-size: 1.2rem;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+/*MEDIA QUERYS*/
+
+
+@media (min-width: 991px) {
+
+.custom-margin {
+	padding-left: 15rem;
+	padding-right: 15rem;
+	}
+.tittle {
+	padding: 4rem;
+	}
+.navbar-custom {
+	font-size: 2rem;
+	}
+}	
+
+@media (max-width: 991px) {
+
+.custom-margin {
+	padding-left: 8rem;
+	padding-right: 8rem;
+	}
+
+
+@media (max-width: 768px) {
+
+.custom-margin {
+	padding-left: 2rem;
+	padding-right: 2rem;
+	}
+}
